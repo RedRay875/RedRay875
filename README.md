@@ -26,8 +26,8 @@
 
 ### 📂 Featured Projects
 
-#### 🔎 [Product Recommender (Flipkart AI)](https://productrecommenderai.netlify.app/)
-- AI-based recommendation engine using user behavior and filtering.
+#### 🔎 [KLY - Minimal Weather App](https://klyweatherapp.netlify.app/)
+- A responsive and accurate weather checker built with JS & OpenWeather API.
 
 #### 🎬 [AI Movie Recommender](https://ai-movie-recommender-gl9wgdpxxlrzezufzegdxq.streamlit.app/)
 - Suggests movies using cosine similarity on feature vectors.
